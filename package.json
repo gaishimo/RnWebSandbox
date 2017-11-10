@@ -10,6 +10,7 @@
 		"react": "16.0.0",
 		"react-dom": "^16.1.0",
 		"react-native": "0.50.3",
+		"react-native-animatable": "^1.2.4",
 		"react-native-web": "^0.1.13"
 	},
 	"devDependencies": {
