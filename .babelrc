@@ -1,6 +1,3 @@
 {
-  "plugins": [
-    "react-native-web/babel"
-  ],
   "presets": ["react-native"]
 }
